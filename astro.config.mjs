@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight'
 export default defineConfig({
   integrations: [
     starlight({
-      title: "correspondre aujourd'hui - sous la loupe",
+      title: "correspondre aujourd'hui",
       locales: {
         root: {
           label: 'Français',
@@ -17,8 +17,12 @@ export default defineConfig({
       },
       sidebar: [
         {
+          label: 'Avant-propos',
+          link: '/',
+        },
+        {
           label: 'Formules épistolaires',
-          autogenerate: { directory: 'elements' },
+          autogenerate: { directory: 'formules-epistolaires' },
         },
         {
           label: 'Langage épicène',
@@ -30,19 +34,16 @@ export default defineConfig({
         },
         {
           label: 'Règles de typographie',
-          autogenerate: { directory: 'publications' },
+          link: '/typographie/',
         },
         {
           label: 'Nétiquette',
           autogenerate: { directory: 'publications' },
         },
-        {
-          label: 'Circonstances exceptionnelles',
-          autogenerate: { directory: 'publications' },
-        },
+
         {
           label: 'Publications',
-          autogenerate: { directory: 'publications' },
+          link: '/publications/',
         },
       ],
     }),
