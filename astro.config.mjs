@@ -26,7 +26,7 @@ export default defineConfig({
         },
         {
           label: 'Langage épicène',
-          autogenerate: { directory: 'publications' },
+          link: '/epicene/',
         },
         {
           label: 'Majuscules et minuscules',
@@ -38,7 +38,7 @@ export default defineConfig({
         },
         {
           label: 'Nétiquette',
-          autogenerate: { directory: 'publications' },
+          link: '/netiquette/',
         },
 
         {

@@ -9,7 +9,7 @@ description: A reference page in my new Starlight docs site.
 - FALLET, Josette, HERBELIN, Cécile, JUBIN, Christophe. _Les règles d’or de la correspondance commerciale réussie_. Le Mont-sur-Lausanne. Éditions JBM SA, 2005. [www.ejmb.ch](http://www.ejmb.ch)
 - FAYET, Michelle et NISHIMATA, Aline. _Savoir rédiger le courrier d’entreprise_. Paris. Eyrolles, 2014
 - FAYET, Michelle. _Rédiger sans complexes_. Paris. Eyrolles, 2014
-- _Guide du typographe_, Lausanne, Association romande des correcteurs d‘imprimerie, 2015. [www.arci.ch](http://www.arci.ch)
+- _Guide du typographe_, Lausanne, Association romande des correcteurs d'imprimerie, 2015. [www.arci.ch](http://www.arci.ch)
 - GILBERT, Muriel. _Un bonbon sur la langue_. Paris. La Librairie Vuibert (éd), 2018
 - MAYE, Antoine. _La mise en page. Repères, normes, règles typographiques et orthographiques_. Neuchâtel. Éditions Assap, 2009. [www.assap.ch](http://www.assap.ch)
 - MORA, André. _Lettres de motivation, e-mails… Rédiger sans peine_. Paris. J’ai lu, collection Vie active, 2006
